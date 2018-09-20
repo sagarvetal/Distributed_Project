@@ -1,0 +1,1 @@
+All front end logs will be stored here.
